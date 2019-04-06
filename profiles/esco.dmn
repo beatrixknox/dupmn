@@ -1,0 +1,7 @@
+COIN_NAME="esco"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="escrowd"
+COIN_CLI="escrow-cli"
+COIN_FOLDER="/root/.CARDbuyers"
+COIN_CONFIG="esco.conf"
+COIN_SERVICE="esco.service"
